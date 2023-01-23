@@ -1,0 +1,6 @@
+.hover-effect:hover{
+    background-color: rgb(238, 247, 255);
+    border: 1px solid gray;
+    border-top: none;
+    border-radius: 3px;
+}
